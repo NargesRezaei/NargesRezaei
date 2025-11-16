@@ -1,9 +1,7 @@
 # Hi, I'm Narges 🌿  
 ### Deep Learning • Microscopy • OCT • Biomedical Imaging  
 
-I am a researcher working at the intersection of **deep learning**,  
-**microscopy**, and **optical imaging**.  
-My work spans **OCT multilayer simulation**, **physics-informed neural models** and **SRGAN-based super-resolution** for sub-resolution structure estimation.
+I am a researcher working at the intersection of **deep learning**, **microscopy**, and **optical imaging**. My work spans **OCT multilayer simulation**, **physics-informed neural models** and **SRGAN-based super-resolution** for sub-resolution structure estimation.
 
 ---
 
