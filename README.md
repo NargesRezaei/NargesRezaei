@@ -49,8 +49,6 @@ Deep models for structural analysis in OCT
 Super-Resolution of microscopy images using SRGAN  
 ➡️ https://github.com/NargesRezaei/Microscopy-SRGAN-FlyWing-GPU.git
 
-*(Replace “repo link” with your actual GitHub URLs.)*
-
 ---
 
 ## 🧪 Research Interests
@@ -66,7 +64,7 @@ Super-Resolution of microscopy images using SRGAN
 
 ## 📚 Publications & Posters
 
-- *Microscopy Image Super-Resolution using SRGAN*  
+- *Improving the quality of microscopic images using generative adversarial network*  
   Poster presentation, Iranian Optics & Photonics Conference (2024)
 
 ---
