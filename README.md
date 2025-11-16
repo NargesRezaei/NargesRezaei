@@ -39,15 +39,15 @@ OpenCV, scikit-image, Git, Linux, Jupyter.
 
 ### 👁️ **OCT Multilayer Simulation**  
 MATLAB + Python model for multilayer OCT forward simulation  
-➡️ (repo link)
+
 
 ### 🧠 **Boundary Localization & Refractive Index Estimation**  
 Deep models for structural analysis in OCT  
-➡️ (repo link)
+
 
 ### 🔬 **Microscopy SRGAN – TensorFlow**  
 Super-Resolution of microscopy images using SRGAN  
-➡️ `microscopy-super-resolution-tensorflow`
+➡️ `https://github.com/NargesRezaei/Microscopy-SRGAN-FlyWing-GPU.git`
 
 *(Replace “repo link” with your actual GitHub URLs.)*
 
