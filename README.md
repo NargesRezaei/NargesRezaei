@@ -47,7 +47,7 @@ Deep models for structural analysis in OCT
 
 ### 🔬 **Microscopy SRGAN – TensorFlow**  
 Super-Resolution of microscopy images using SRGAN  
-➡️ `https://github.com/NargesRezaei/Microscopy-SRGAN-FlyWing-GPU.git`
+➡️ https://github.com/NargesRezaei/Microscopy-SRGAN-FlyWing-GPU.git
 
 *(Replace “repo link” with your actual GitHub URLs.)*
 
